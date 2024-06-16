@@ -1,3 +1,3 @@
-# Projeto Final - UNES
+# Projeto Final 1 - UNES
 
-Projeto elaborado durando o curso **Desenvolvimento Web Completo**.
+Projeto elaborado durante o curso **Desenvolvimento Web Completo**.
